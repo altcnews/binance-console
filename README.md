@@ -27,4 +27,5 @@ Features
 7. buy_trail_stop: places buy order and sell if trailing stop is reached
 8. buy_take_profit: buys and sells as soon as profit is reached
   
-# Use this script only if you know what you' re doing and at your own risk!
+Use this script only if you know what you' re doing and at your own risk!
+--------
