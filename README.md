@@ -28,7 +28,7 @@ Features
 9. buy_and_sell: Places buy and sell order
 10. buy_trail_stop: Places buy order and sell if trailing stop is reached
 11. buy_take_profit: Buys and sells as soon as profit is reached
-12. change_pair: Changes Currency/Asset pair
+12. change_pair: Changes Asset/Currency pair
   
   
 Use this script only if you know what you' re doing and at your own risk!
