@@ -19,13 +19,15 @@ Features
 --------
 1. get_balances: Shows your current balances for all coins you own
 2. get_open_orders: Shows currently open orders
-2. buy_market: buys <amount> of <pair> for current market price
-3. sell_market: sells <amount> of <pair> for current market price
-4. place_buy_order: places buy order for <amount> of <pair> with limit <price>
-5. place_sell_order: places sell order for <amount> of <pair> with limit <price>
-6. buy_and_sell: places buy and sell order
-7. buy_trail_stop: places buy order and sell if trailing stop is reached
-8. buy_take_profit: buys and sells as soon as profit is reached
+2. buy_market: Buys <amount> of <pair> for current market price
+3. sell_market: Sells <amount> of <pair> for current market price
+4. place_buy_order: Places buy order for <amount> of <pair> with limit <price>
+5. place_sell_order: Places sell order for <amount> of <pair> with limit <price>
+6. buy_all: Buys <pair> with complete amount of buy-coin on your binance wallet
+7. sell_all: Sells <pair> with complete amount amount of buy-coin on your binance wallet
+8. buy_and_sell: places buy and sell order
+9. buy_trail_stop: places buy order and sell if trailing stop is reached
+10. buy_take_profit: buys and sells as soon as profit is reached
   
 Use this script only if you know what you' re doing and at your own risk!
 --------
