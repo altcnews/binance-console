@@ -1,2 +1,2 @@
-# binancebot
-simple and easy to use crypto trading bot for binance
+# binance-console
+simple and easy to use console engine for fast trading on binance
