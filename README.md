@@ -8,7 +8,7 @@ Install
 
 Usage
 ------
-1. Edit api_key.txt and insert your <api_key> and <api_secret> to be able to use binance api 
+1. Edit binance-console and insert your <api_key> and <api_secret> to be able to use binance api 
    (you have to create an api key on binance in your account settings first)
 2. Start script: python3 binance-console.py
 3. You will be asked which pair you want to trade
